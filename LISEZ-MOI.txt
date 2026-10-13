@@ -1,9 +1,9 @@
-Tactics: 194∞ — version 202610121012
+Tactics: 194∞ — version 202610131229
 
 PUBLIER (GitHub Pages)
 1. Sur ton dépôt GitHub (ex. « tactics-194 »), clique « Add file » puis « Upload files ».
 2. Glisse TOUT le contenu de ce dossier (index.html, manifest.webmanifest, sw.js, .nojekyll, dossier icons).
-   Les fichiers existants sont remplacés. Écris un petit message (ex. « version 202610121012 ») puis « Commit changes ».
+   Les fichiers existants sont remplacés. Écris un petit message (ex. « version 202610131229 ») puis « Commit changes ».
 3. Première fois seulement : Settings > Pages > Branch : main, dossier / (root) > Save.
 4. Après ~1 minute : https://TON-PSEUDO.github.io/NOM-DU-DEPOT/
 
